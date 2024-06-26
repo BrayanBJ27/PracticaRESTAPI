@@ -6,12 +6,11 @@ API for managing products in a minimarket. This API allows you to create, read, 
 
 - [Description](#description)
 - [Installation](#installation)
+- [Prerequisites](#prerequisites)
+- [Steps](#steps)
 - [Usage](#usage)
-- [API Documentation](#api-documentation)
-- [Endpoints](#endpoints)
-- [Error Handling](#error-handling)
-- [Contributing](#contributing)
-- [License](#license)
+- [Example Requests](#example-requests)
+
 
 ## Description
 
