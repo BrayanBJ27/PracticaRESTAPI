@@ -2,7 +2,7 @@
 
 API for managing products in a minimarket. This API allows you to create, read, update, and delete products.
 
-## Integrantes del Grupo
+## Names of Group
 
 - Christopher Pallo
 - Brayan Davila
